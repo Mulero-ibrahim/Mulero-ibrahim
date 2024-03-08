@@ -1,4 +1,4 @@
-👋 Hi, I’m @Mulero-Ibrahim or Ibrahim Mulero. I hold a Distinction in MSc Artificial Intelligence and Data Science and am currently seeking an entry-level position.
+👋 Hi, I’m @Mulero-Ibrahim or Ibrahim Mulero. I hold a Distinction in MSc Artificial Intelligence and Data Science and am currently seeking Data engineering/Data Scientist position.
 
 👀 I’m interested in various aspects of data, especially analytics/insights, data engineering, or data science.
 
